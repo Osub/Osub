@@ -13,6 +13,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osub&show_icons=true&locale=en&layout=compact" alt="osub" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
     <img src="https://github-readme-stats.vercel.app/api?username=osub&show_icons=true&locale=en" alt="osub" />
-</a>
+</a> -->
